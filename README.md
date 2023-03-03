@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49b2f3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49b2f3&height=70&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49b2f3&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+João+Ezequiel+Lima;I+love+to+study+C+Sharp;And+I'm+a+Backend+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ezequiel-Lima&bg_color=00000000&color=4c779e&line=4c7b9e&point=49b2f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49b2f3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49b2f3&height=70&section=footer"/>
 
 <!---
 Ezequiel-Lima/Ezequiel-Lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

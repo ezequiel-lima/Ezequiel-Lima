@@ -12,7 +12,6 @@ Se você quiser entrar em contato comigo, pode me encontrar no LinkedIn através
 
 <div align="left"> 
 <a href="https://www.linkedin.com/in/joão-ezequiel-lima-9613a6242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<br><br><br>
 </div>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49b2f3&height=70&section=footer"/> -->

@@ -2,7 +2,7 @@
 
 ### Sobre mim 👋
 
-Olá, sou um desenvolvedor .NET e estudante de análise e desenvolvimento de sistemas. Atualmente, trabalho na Cast Group como desenvolvedor backend, onde estou envolvido em projetos desafiadores e aprendendo muito com minha equipe.
+Olá, sou um desenvolvedor .NET e estudante de análise e desenvolvimento de sistemas. No passado, trabalhei na Cast Group como desenvolvedor backend, onde estive envolvido em projetos desafiadores e aprendi muito com minha equipe.
 
 Em meu tempo livre, gosto de trabalhar em projetos pessoais e colaborativos para me manter atualizado com as tecnologias mais recentes e expandir minha experiência em diferentes áreas. 
 

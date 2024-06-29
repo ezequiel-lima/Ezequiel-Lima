@@ -4,9 +4,9 @@
 
 Olá, sou um **Desenvolvedor .NET** e estudante de **Análise e Desenvolvimento de Sistemas**. 
 
-Anteriormente, contribuí como desenvolvedor backend na **Cast Group**, participando ativamente do projeto **TCMSP (Tribunal de Contas do Município de São Paulo).** 
+Atualmente, integro a equipe da **7COMm** como **Programador Analista I**, desenvolvendo soluções em .NET para o projeto da **Ágora Investimentos**, corretora do **Bradesco**. Essa experiência tem sido uma ótima oportunidade para aprimorar minhas habilidades técnicas e trabalhar em um ambiente colaborativo.
 
-Atualmente, integro a equipe da **7COMm** como Programador Analista I, envolvido no projeto da **Ágora Investimentos.** Durante essa experiência, enfrentei desafios estimulantes e adquiri valiosos conhecimentos ao colaborar com uma equipe excepcional.
+Anteriormente, contribuí como **Desenvolvedor Backend** na **Cast Group**, participando ativamente do projeto **TCMSP (Tribunal de Contas do Município de São Paulo).** 
 
 ### Contato 👥
 
